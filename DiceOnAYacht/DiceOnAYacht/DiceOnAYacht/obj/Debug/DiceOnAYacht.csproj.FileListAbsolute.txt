@@ -1,0 +1,6 @@
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\bin\Debug\DiceOnAYacht.exe.config
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\bin\Debug\DiceOnAYacht.exe
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\bin\Debug\DiceOnAYacht.pdb
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\obj\Debug\DiceOnAYacht.csprojResolveAssemblyReference.cache
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\obj\Debug\DiceOnAYacht.exe
+c:\users\sage\documents\visual studio 2013\Projects\DiceOnAYacht\DiceOnAYacht\obj\Debug\DiceOnAYacht.pdb
